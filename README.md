@@ -1,6 +1,6 @@
 # learn_baby
 
-A new Flutter project.
+A graduation project for students at the Faculty of Disability Sciences and the goal of the application is to develop the various skills of children with autism spectrum.
 
 ## Getting Started
 
